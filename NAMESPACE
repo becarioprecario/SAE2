@@ -1,0 +1,17 @@
+export("EBLUP")
+export("residuals.EBLUP")
+export("fitted.EBLUP")
+export("coef.EBLUP")
+export("print.EBLUP")
+export("ranef.EBLUP")
+export("logLik.EBLUP")
+export("deviance.EBLUP")
+export("AIC.EBLUP")
+export("cAIC.EBLUP")
+
+export("SEBLUP")
+export("logLik.EBLUP")
+
+import("nlme")
+import("spam")
+
