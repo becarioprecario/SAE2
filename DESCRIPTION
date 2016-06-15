@@ -1,0 +1,15 @@
+Package: SAE2
+Version: 0.09
+Date: 2008/04/09
+Encoding: latin1
+Title: Small Area Estimation with R
+Author: Virgilio Gómez-Rubio, N. Salvati and others
+Maintainer: V. Gómez-Rubio <v.gomezrubio@imperial.ac.uk>
+Depends: R (>= 2.0.0), nlme, spam
+License: GNU GPL
+Description:  The package implementes different Small Area Estimators based 
+  on EBLUP. Included in the package are classical EBLUP estimators and
+  the Spatial EBLUP developed by N. Salvati and co-workers. This package
+  has been written from scratch from SAE (by V. Gomez-Rubio, N. Salvati 
+  and others)
+Packaged: Sat Aug  9 23:25:38 2008; vrubio
